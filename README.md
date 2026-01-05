@@ -88,7 +88,6 @@ You are expected to have read and follow the guidelines at the university’s ac
 
 Violations of academic integrity will be treated in accordance with university policy, and sanctions for violations may range from no credit for the assignment, to a failing course grade to (for the most severe violations) dismissal from the university.
 
-\newpage
 ### COURSE TOPICS AND OUTLINE (BY WEEK)
 Introduction to and Ethics of Data Science (Week 1)
 
@@ -131,7 +130,6 @@ Final Project Presentations (Week 8)
 * 2/25/24: Final student presentations
 
 
-\newpage
 ### ADDITIONAL (ASYNCHRONOUS) MODULES 
 
 Learning R: 
